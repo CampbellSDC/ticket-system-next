@@ -1,11 +1,10 @@
-import DeleteBlock from "./DeleteBlock"
+import DeleteBlock from "./DeleteBlock";
 
 const TicketCard = () => {
-  return (
-    <div>
-      <DeleteBlock />
-    </div>
-  )
-}
+  return;
+  <div>
+    <DeleteBlock />;
+  </div>;
+};
 
-export default TicketCard
+export default TicketCard;

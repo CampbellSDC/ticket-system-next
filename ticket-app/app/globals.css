@@ -2,9 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-
 @layer components {
-  .icon{
+  .icon {
     @apply text-default-text text-xl;
   }
 

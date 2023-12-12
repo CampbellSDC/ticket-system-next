@@ -1,7 +1,5 @@
+const TicketPage = ({ params }) => {
+  return <div>TicketPage {params.id}</div>;
+};
 
-const TicketPage = ({params}) => {
-  return <div>TicketPage {params.id}</div>
-  
-}
-
-export default TicketPage
+export default TicketPage;
