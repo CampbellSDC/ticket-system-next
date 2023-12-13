@@ -1,10 +1,10 @@
 import TicketCard from "./(components)/TicketCard";
 
 const Dashboard = () => {
-  return;
+  return(
   <div>
     <TicketCard />
-  </div>;
+  </div>)
 };
 
 export default Dashboard;
